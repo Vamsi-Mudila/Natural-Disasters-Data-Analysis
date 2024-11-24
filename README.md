@@ -18,6 +18,15 @@ This project analyzes the frequency and impact of various natural disasters from
 
 ---
 
+## 🎥 Code & Output Preview
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0f15ed24-f59b-4192-9fbf-fffe817775e7" alt="Code Preview" width="500" />
+  <img src="https://github.com/user-attachments/assets/0e82c170-9b47-46ef-af63-e67120125c64" alt="Plot Preview" width="500" />
+  <img src="https://github.com/user-attachments/assets/d1d1c189-be29-4ef1-9c22-98fccbcbc76a" alt="Output Preview" width="500" />
+</div>
+
+---
+
 ## 🚀 Installation & Usage
 
 ### Prerequisites
@@ -81,7 +90,7 @@ Contributions are welcome! Follow these steps:
 5. **Open a pull request**.
 
 ## ⚖️ License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 💖 Acknowledgements
 - **University of Liverpool**: For providing resources and guidance.
