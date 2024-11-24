@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" alt="Power BI Badge" />
   <img src="https://img.shields.io/badge/License-MIT-success" alt="License Badge" />
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions Badge" />
+  <a href="https://github.com/user-attachments/files/17891313/Report.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20Report-PDF-blue" alt="Download Report Badge" /></a>
 </div>
 
 ## 📌 Project Description
