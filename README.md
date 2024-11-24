@@ -97,3 +97,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **EM-DAT**: For providing accessible disaster data.
 - **Supervisors**: Dr. Othon Michail and Dr. Fawada Qaiser for their mentorship.
 - **Team Members**: Acknowledging the valuable contributions of all team members.
+- **Friends and Family**: For their unwavering support and encouragement.
