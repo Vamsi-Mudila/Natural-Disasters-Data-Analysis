@@ -55,13 +55,10 @@ This project analyzes the frequency and impact of various natural disasters from
 ```
 Natural-Disasters-Data-Analysis/
 │
-├── README.md                        # Main project documentation
-├── LICENSE                          # MIT License details
 ├── data/                            # Data folder
-│   ├── natural-disasters_work.xlsx  # Main dataset used for analysis
 │   ├── countriesVSyear.xlsx         # Derived dataset
 │   └── disasterVSyear.xlsx          # Derived dataset
-├── Report.docx                      # Detailed project report
+│   ├── natural-disasters_work.xlsx  # Main dataset used for analysis
 ├── visualizations/                  # Visualization files
 │   ├── cVSa.twb                     # Tableau visualization file
 │   ├── cVSd.twb                     # Tableau visualization file
@@ -69,6 +66,9 @@ Natural-Disasters-Data-Analysis/
 │   ├── countriesVSfactors.pbix      # Power BI visualization file
 │   ├── countriesVSyears.pbix        # Power BI visualization file
 │   └── disastersVSyears.pbix        # Power BI visualization file
+├── LICENSE                          # MIT License details
+├── README.md                        # Main project documentation
+├── Report.docx                      # Detailed project report
 ```
 
 ## 🤝 Contributions
