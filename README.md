@@ -18,11 +18,10 @@ This project analyzes the frequency and impact of various natural disasters from
 
 ---
 
-## 🎥 Code & Output Preview
+## 🎥 Visual Insights Preview
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0f15ed24-f59b-4192-9fbf-fffe817775e7" alt="Code Preview" width="500" />
-  <img src="https://github.com/user-attachments/assets/0e82c170-9b47-46ef-af63-e67120125c64" alt="Plot Preview" width="500" />
-  <img src="https://github.com/user-attachments/assets/d1d1c189-be29-4ef1-9c22-98fccbcbc76a" alt="Output Preview" width="500" />
+  <img src="https://github.com/user-attachments/assets/9a15451c-cfe5-44df-835d-311c7f1ce14f" alt="Visual Insights Preview" width="500" />
+  <img src="https://github.com/user-attachments/assets/7c5f76ad-601d-49eb-9b75-07d8d3777527" alt="Visual Insights Preview" width="500" />
 </div>
 
 ---
