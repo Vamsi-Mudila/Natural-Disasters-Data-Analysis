@@ -67,6 +67,7 @@ Natural-Disasters-Data-Analysis/
 │   └── disastersVSyears.pbix        # Power BI visualization file
 ├── LICENSE                          # MIT License details
 ├── README.md                        # Main project documentation
+├── Report.pdf                       # Project Report document
 ```
 
 ## 🤝 Contributions
